@@ -1,0 +1,102 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Family"
+    },
+    {
+      "id": 3,
+      "name": "Friendly"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Maya Angelou"
+    },
+    {
+      "id": 2,
+      "name": "Mark Twain"
+    },
+    {
+      "id": 3,
+      "name": "Tom Robbins"
+    },
+    {
+      "id": 4,
+      "name": "Malcom Gladwell"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Grace Parce"
+    },
+    {
+      "id": 2,
+      "name": "Tony Parce"
+    },
+    {
+      "id": 3,
+      "name": "Nathan Malone"
+    },
+    {
+      "id": 4,
+      "name": "Lorin Jones"
+    }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "date": "10/25/1992",
+      "authorId": 3,
+      "recipientId": 4,
+      "content": "this is a trial message",
+      "topicId": 3
+    },
+    {
+      "date": "2022-08-25",
+      "authorId": 3,
+      "recipientId": 1,
+      "topicId": 1,
+      "content": "This is another trial",
+      "id": 8
+    },
+    {
+      "date": "2022-08-25",
+      "authorId": 1,
+      "recipientId": 1,
+      "topicId": 1,
+      "content": "Chicago is a cool place",
+      "id": 9
+    },
+    {
+      "date": "2022-08-26",
+      "authorId": 3,
+      "recipientId": 1,
+      "topicId": 1,
+      "content": "Hello",
+      "id": 10
+    },
+    {
+      "date": "2022-09-01",
+      "authorId": 3,
+      "recipientId": 1,
+      "topicId": 1,
+      "content": "Hello Grace",
+      "id": 11
+    }
+  ]
+}
